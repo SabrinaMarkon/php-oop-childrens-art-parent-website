@@ -33,4 +33,4 @@ Required features and goals (version 1):
 
 - The resulting script should be easily adaptable for use with other kinds of websites that have similar needs.
 
-Example: http://juniorartists.phpsitescripts.com
+
